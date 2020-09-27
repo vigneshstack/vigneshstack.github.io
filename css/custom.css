@@ -1,0 +1,43 @@
+/*! Place your custom styles here */
+
+.bar .logo{ max-width: 150px; max-height: 100px; }
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+
+/*! Tab Sapce  */
+        .tab1 { 
+            tab-size: 2; 
+        } 
+  
+        .tab2 { 
+            tab-size: 4; 
+        } 
+  
+        .tab4 { 
+            tab-size: 8; 
+        } 
+
+/* Span tab */
+        .tab { 
+            display: inline-block; 
+            margin-left: 40px; 
+        } 
+
+
+h2 {
+  color: #4a90e2;
+}
